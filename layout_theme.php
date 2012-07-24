@@ -10,7 +10,7 @@
 	<div id='all-content'>
 		<header id='top-header'>
 			<div class='content-region'>
-				<a href='#'><img id='logo' src='ScratchME_Site_Logo1.4.png'/></a>
+				<a href='#'><img id='logo' src='images/ScratchME_Site_Logo1.4.png'/></a>
 				<nav id='primary-nav'>
 					<a href='#'>Groups</a>
 						<a href='#'>Educators</a> 
